@@ -1,0 +1,17 @@
+.fab-position {
+    position: fixed;
+    margin-top: 500px;
+    margin-left: 900px;
+    
+
+}
+
+
+.icon-fab{
+    font-size: 320%;
+    color: rgb(48, 202, 55);
+}
+
+.tit-esp {
+    color: #034426;
+}
